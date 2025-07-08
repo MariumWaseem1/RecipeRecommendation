@@ -1,4 +1,4 @@
-RecipeWizard
+
 RecipeWizard is a machine learning-based intelligent recipe recommendation system that helps users make healthier dietary choices. By analyzing user inputs and nutritional data, the system suggests suitable recipes while considering calorie intake, dietary preferences, and nutritional balance.
 
 Features
